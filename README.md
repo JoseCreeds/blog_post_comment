@@ -1,4 +1,5 @@
 # Adoptez une architecture MVC en PHP
+Resume : Ceci est un blog post avec des commentaire en mvc php POO. 
 
 Voici le dépôt Git qui sert de support au cours **Adoptez une architecture MVC en PHP**. À partir de ce dépôt, vous pourrez récupérer le code source, situé dans le dossier `blog/`, à chaque étape de l'avancement du projet.
 
@@ -31,7 +32,6 @@ Vous devriez aussi remplir votre base de données. Vous pouvez charger le schém
 ```bash
 mysql -ublog -p blog < db.sql
 ```
-Resume : Ceci est un blog post avec des commentaire en mvc php POO. 
 
 ### Lancement
 
