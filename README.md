@@ -31,6 +31,7 @@ Vous devriez aussi remplir votre base de données. Vous pouvez charger le schém
 ```bash
 mysql -ublog -p blog < db.sql
 ```
+Resume : Ceci est un blog post avec des commentaire en mvc php POO. 
 
 ### Lancement
 
